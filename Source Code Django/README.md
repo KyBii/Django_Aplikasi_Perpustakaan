@@ -1,5 +1,5 @@
 # Aplikasi Perpustakaan
-Progress belajar materi MVC matapelajaran PBO.
+Progress belajar materi MVC mata kuliah Pemprograman Mobile.
 Projek ini dipecah menjadi beberapa bagian yang dibuat kedalam bentuk series video, guna mempermudah proses pembelajaran langkah-demi-langkah.
 
 # Videos 📹
